@@ -1,4 +1,4 @@
 # jerry test
 develop
-develop-feature
-feature1
+develop-feature2
+feature2
