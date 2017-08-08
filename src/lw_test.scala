@@ -1,5 +1,5 @@
 /**
-  * Created by user on 2017/6/12. feature5
+  * Created by user on 2017/6/12. feature6
   */
 object lw_test {
 
