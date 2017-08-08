@@ -1,7 +1,6 @@
 # jerry test
 develop
-develop-feature5
-develop-feature4
-feature4
-新到时
+develop-feature6
+develop-feature6
+feature6
 
